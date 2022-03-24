@@ -1,0 +1,12 @@
+
+                Function main(x, a, b, c){
+                    If(x == ((False||True) && (a > b + c))){
+                        a = b - c;
+                    }
+                    Else{
+                        a = b + c;
+                        x = True;
+                    }
+                        
+                }
+            

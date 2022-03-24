@@ -1,0 +1,12 @@
+
+                Function main(){
+                    Let x;
+                    If (x){
+                        x=1;
+                    }
+                    Else{
+                        Let y,z;
+                        y = x;
+                    }
+                }
+            

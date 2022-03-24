@@ -1,0 +1,11 @@
+
+        Function foo(){
+
+        }
+        Function main(main){
+            Let foo;
+            foo = foo + Call(main,[]);
+            Return 1;
+        }
+        
+                   

@@ -1,0 +1,8 @@
+
+        Let a: JSON;
+        Function main() {
+            For x Of a {
+                x = a{"m"} +. 1 ;
+            }
+        }
+        

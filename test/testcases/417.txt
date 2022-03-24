@@ -1,0 +1,8 @@
+
+                Function main(x,y,z,t,k){
+                    y= x + y / z * t;
+                    x= k % t;
+                    y= x == z;
+                }
+
+            

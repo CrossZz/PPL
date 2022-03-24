@@ -1,0 +1,8 @@
+
+        Let a: JSON;
+        Function main() {
+            If (a{"m"}>True) {
+                
+            }
+        }
+        

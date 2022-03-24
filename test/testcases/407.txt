@@ -1,0 +1,6 @@
+
+            Function main(x,y){
+                x = 1; 
+                Call(main,["v", 0]); 
+            } 
+            

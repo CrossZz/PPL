@@ -1,0 +1,12 @@
+
+                Function main(){
+                    If (True){
+
+                    }
+                    Elif (True){
+                        Let a[1],b;
+                        a[1]=b;
+                    }
+                        
+                }
+            

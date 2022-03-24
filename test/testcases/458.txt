@@ -1,0 +1,12 @@
+
+         Function foo(x1,x2){
+            Return;
+        }
+        Function main(){
+            Let x;
+            Call(foo,[1,2]);
+            x = Call(foo,[5,99]);
+            Return 0;
+        }
+       
+        

@@ -1,0 +1,12 @@
+ 
+        Let a = True, d = "string";
+        ##this  is comment##
+        Function main(a[123], b , x){ 
+            Let y;
+            While (True){
+                Let y; 
+                y = y + 1;
+                Call(main,[a,y,d]);
+            }
+        }
+        

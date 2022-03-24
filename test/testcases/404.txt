@@ -1,0 +1,10 @@
+
+                Function foo(x){
+                    Return 1;
+                }
+                Function main(){
+                    Let x, y = 0.5;
+                    x = 1 + Call(foo,[1]);
+                    y = Call(foo,["S"]) - 1;
+                }
+            

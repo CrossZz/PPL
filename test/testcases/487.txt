@@ -1,0 +1,12 @@
+
+        Function main(n){
+            Let a;
+            While(a!=3){
+                Let b;
+                While(b!=4){
+
+                }
+            }                
+            a=True;
+        } 
+        

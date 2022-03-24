@@ -1,0 +1,12 @@
+
+        Let x;
+        Function main(x){
+
+        }
+        Let y;
+        Function a(){
+            Let o;
+            x=1;
+            Let o;
+        }
+        

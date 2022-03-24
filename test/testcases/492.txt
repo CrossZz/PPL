@@ -1,0 +1,11 @@
+
+            Function main(n){
+                If (n == 0){
+                    If (n!=0){
+                        If (n!=0){
+                             a=5;
+                        }       
+                    }
+                }
+            } 
+            

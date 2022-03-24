@@ -1,0 +1,10 @@
+
+                Function foo(x){
+
+                }
+                Function main(x){
+                    Call(foo,[1]);
+                    x= 1 + Call(foo,[1]);
+                }
+                
+            

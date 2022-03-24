@@ -1,0 +1,10 @@
+
+                Function foo(){
+
+                }
+                Function main(){
+                    Let x;
+                    Call(foo,[]);
+                    x = Call(foo,[]);
+                }
+            

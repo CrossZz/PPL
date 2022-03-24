@@ -1,0 +1,9 @@
+
+        Let a;
+        Function main(n){
+            While (True){
+                Return a+3;
+            }
+            Return a +. "s";
+        } 
+            

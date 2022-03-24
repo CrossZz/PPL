@@ -1,0 +1,16 @@
+
+                
+                Let x;
+                Function fact(n){
+                    If (n == 0){
+                        Return 1;
+                    }
+                    Else{
+                        Return n * Call(fact,[n - 1]);
+                    }
+                }
+                Function main(){
+                    x = 10;
+                    Call(fact,[x]);
+                }
+            

@@ -1,0 +1,14 @@
+
+            Function main(){
+                Let sum: Number = 0, a = 1;
+                While (a < 10){
+                    Let b, cal = 1;
+                    While (b < 10){
+                        cal = cal * b;
+                        b = b + 1;
+                    }
+                    sum = sum + prod;
+                    a = a + 1;
+                }
+            }
+            

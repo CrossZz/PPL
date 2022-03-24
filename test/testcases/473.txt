@@ -1,0 +1,11 @@
+
+                Function main(){
+                    Let x;
+                    If (True){
+                        x = 3;
+                    }
+                    Else {
+                        x = True;
+                    }
+                }
+            

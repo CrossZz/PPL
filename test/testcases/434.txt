@@ -1,0 +1,12 @@
+
+                Function foo(x){
+
+                }
+                Function main(){
+                    Let x;
+                    If (Call(foo,[x])){
+                        x=1;
+                    }
+                }
+                
+            

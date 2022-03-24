@@ -1,0 +1,11 @@
+                
+                Function main(){
+                    Let x;
+                    If (x) {
+                        Return "s";
+                    }
+                    Else {
+                        Return 1.5;
+                    }
+                }
+            

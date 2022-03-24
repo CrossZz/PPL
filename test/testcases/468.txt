@@ -1,0 +1,8 @@
+
+        Let a: JSON;
+        Function main() {
+            a{"n"} = 1+3;
+            Let a: Number;
+            a{"n"} =0;
+        }
+        

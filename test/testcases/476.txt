@@ -1,0 +1,9 @@
+
+                Function main(x){
+                    Let y;
+                    While (y){
+                        x=True;
+                        Call(main,[0.5]);
+                    } 
+                }
+                

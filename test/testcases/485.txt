@@ -1,0 +1,10 @@
+
+        Function main(){
+            Let x[5];
+            If (True){
+                While (True){
+                    Return x;
+                }
+            }
+        }
+        

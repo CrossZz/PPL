@@ -1,0 +1,7 @@
+
+        Let a: Number;
+        Let x[a,3]: Number;
+        Function main(b[3,3,3]){
+            x=b;
+        }
+        

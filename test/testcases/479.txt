@@ -1,0 +1,15 @@
+
+                Let abc[5];
+                Function foo(x[2]){
+                    x[1] = 1;
+                    abc[1] = 2;
+                }
+                Function main(){
+                    Let z[2] = [1,2];
+                    Let w[2] = [True,False];
+                    Let x;
+                    abc[1] = 1;
+                    Call(foo,[z]);
+                    Call(foo,[w]);
+                }
+               

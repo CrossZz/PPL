@@ -1,0 +1,6 @@
+
+                Function main(x){
+                    x=1;
+                    x= "String";
+                }
+            

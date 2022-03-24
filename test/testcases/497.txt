@@ -1,0 +1,9 @@
+
+        Let a;
+        Function main(){
+          Call(foo,[a]);
+        }
+        Function foo(){
+
+        }
+        

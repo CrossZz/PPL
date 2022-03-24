@@ -1,0 +1,5 @@
+ 
+            Function main(global_var){
+                global_var = 25+6-2.5%True/100 ; 
+            } 
+        

@@ -1,0 +1,7 @@
+                
+                Let x[5]=[1,2];
+                Let x=1;
+                Function main() {
+
+                }            
+        

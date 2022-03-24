@@ -1,0 +1,11 @@
+
+        Function main(n){
+            Let x;
+            While (x>1){
+                If (x==1){
+                    Return;
+                }
+            }
+            Return True;
+        } 
+        

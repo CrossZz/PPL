@@ -1,0 +1,4 @@
+Function main(){
+                Call(print,[Call(read,[4])]);
+        } 
+        

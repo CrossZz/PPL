@@ -1,0 +1,13 @@
+
+                Let abc[5];
+                Function foo(x[2]){
+                    x[1] = 1;
+                    abc[1] = True;
+                }
+                Function main(){
+                    Let z[2] = [1,2];
+                    Let w[2] = [3,4];
+                    Let x;
+                    abc[1] = 1.5; 
+                }
+                

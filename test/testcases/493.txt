@@ -1,0 +1,10 @@
+
+        Let x;
+        Function foo(){
+            x = 2;
+        }
+        Function main(x[5]){
+            x = [1.,2.,3.,4.,5.];
+        }   
+        
+        

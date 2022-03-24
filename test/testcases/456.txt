@@ -1,0 +1,10 @@
+
+                Function foo(){
+                    Return 1.5;
+                }
+                Function main(){
+                    Let x;
+                    x = "1" +. Call(foo,[]);
+                }
+                
+            

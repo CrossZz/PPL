@@ -1,0 +1,9 @@
+
+        Let a[2,3]: Number;
+        Function main() {
+            Constant $b = [[1,2,3],[1,2,3]];
+            For x In a {
+                x = $b;
+            }
+        }
+        

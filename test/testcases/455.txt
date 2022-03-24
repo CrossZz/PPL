@@ -1,0 +1,9 @@
+
+                Function foo(){
+                    Return 1;
+                }
+                Function main(){
+                    Call(foo,[]);
+                }
+                
+            

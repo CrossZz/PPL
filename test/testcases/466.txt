@@ -1,0 +1,9 @@
+
+                Function foo(x,y){
+                    Call(foo,[2 + x, 4. / y]);
+                    Call(foo,[x,y]);
+                }
+                Function main(){
+                    Call(foo,[3,"S"]);
+                }         
+                

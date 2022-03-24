@@ -1,0 +1,9 @@
+
+                Function foo(x){
+
+                }
+                Function main(){
+                   Let x, y = 0.5;
+                    Call(foo,[x]);
+                }
+            

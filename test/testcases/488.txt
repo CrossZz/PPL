@@ -1,0 +1,7 @@
+
+        Function main(x,y){
+            While (True){
+                Return Call(main,[x,y]);
+            }
+        } 
+            

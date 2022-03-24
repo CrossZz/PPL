@@ -1,0 +1,10 @@
+
+        Let a: JSON;
+        Function main() {
+            For x Of a {
+                x= 6;
+                x= True;
+                x= n;
+            }
+        }
+        

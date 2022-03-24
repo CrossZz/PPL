@@ -1,0 +1,8 @@
+                
+                Function main(){
+                    Let a[5]= [1,2,3,4,5];
+                    Let b[5];
+                    a=b;
+                    a[5]=b;
+                }
+            

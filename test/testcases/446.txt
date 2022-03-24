@@ -1,0 +1,8 @@
+Function main(a){
+            While (a ==. "s"){
+                While (a<100){
+                    a=a-30;
+                }
+            }
+        }
+        

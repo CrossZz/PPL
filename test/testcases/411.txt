@@ -1,0 +1,7 @@
+
+            Function main(x){
+                Let y = True; 
+                Call(main,[y]); 
+                x = 1.0;
+            } 
+            

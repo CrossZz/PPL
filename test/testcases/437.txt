@@ -1,0 +1,9 @@
+
+            Function main(){ 
+                Let x;
+                If (x) {
+                    Let y;
+                }
+                y=1;
+            }
+            

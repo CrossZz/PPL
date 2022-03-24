@@ -1,0 +1,10 @@
+
+                Function foo(n){
+                    Let x[1,2]=[[1,2]] ;
+                    Return x;
+                }
+                Function main(){
+                    Let x;
+                    Call(foo,[x])[x+3,True]=1;
+                }
+            

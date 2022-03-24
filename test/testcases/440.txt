@@ -1,0 +1,11 @@
+
+        Let a: Number, b =3;
+        Let c[a,b]: Number;
+        Function main() {
+            For x In c {
+                For y In x {
+                    y = True;
+                }
+            }
+        }
+        
